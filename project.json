@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.4.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.134825346",
   "runtimeOptions": {
     "exceptionHandlerWorkflow": "TestExceptionHandler.xaml",
     "autoDispose": false,
@@ -43,7 +43,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "b185421f-f08a-4dee-8b2b-f2e0a3201eed",
         "testCaseType": "TestCase",
         "fileName": "TestCase.xaml"
